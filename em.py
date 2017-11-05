@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import math
 import copy
 
+#.......
 def init_data(sigma, u1, u2, k, n):
     global X, u, Expectations
     X = np.zeros( (1, n) )
